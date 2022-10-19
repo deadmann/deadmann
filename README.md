@@ -76,7 +76,7 @@
  -->
 
 -----
-Credits: [UjwalKandi](https://github.com/UjwalKandi)
+Profile template based on: [UjwalKandi](https://github.com/UjwalKandi)
 
 Last Edited on: 10/14/2021
 
