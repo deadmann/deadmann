@@ -13,7 +13,7 @@
 <a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
 - 🎓 I'm a Bachelore in Computer Sience, Software Engineering
-- 💻 I’m currently working at [Rayankar](https://www.rayankar.com/)
+- 💻 I’m currently working at [Mega Group](https://megagroup.ir/)
 - ⭐ Objective: Try to be a better version of myself <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I like photography, programming, movies, games and dancing
 
